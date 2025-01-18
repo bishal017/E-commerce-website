@@ -1,0 +1,12 @@
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+*.txt
+
+
+# Ignore sensitive files
+.env
+config.json
+
